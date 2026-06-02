@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 120" fill="none">
+  <g opacity="0.6">
+    <rect x="14" y="40" width="150" height="44" rx="22" fill="#9fb2c7"/>
+    <rect x="14" y="40" width="150" height="44" rx="22" fill="none" stroke="#c4d0db" stroke-width="2"/>
+    <path d="M164 42 h42 a10 10 0 0 1 10 10 v32 h-52 z" fill="#b9c6d4"/>
+    <path d="M170 48 h32 v18 h-32 z" fill="#7d93a8"/>
+    <rect x="164" y="34" width="38" height="8" rx="4" fill="#7d93a8"/>
+    <rect x="14" y="84" width="202" height="7" fill="#6e8092"/>
+    <rect x="58" y="52" width="56" height="22" rx="3" fill="#0e1b2e" opacity="0.6"/>
+    <text x="86" y="69" font-family="Oswald, Arial, sans-serif" font-size="18" font-weight="700" fill="#eef3f8" text-anchor="middle">AMC</text>
+    <g fill="#1c2733"><circle cx="52" cy="92" r="13"/><circle cx="84" cy="92" r="13"/><circle cx="188" cy="92" r="13"/></g>
+    <g fill="#5b6b78"><circle cx="52" cy="92" r="5"/><circle cx="84" cy="92" r="5"/><circle cx="188" cy="92" r="5"/></g>
+  </g>
+</svg>
